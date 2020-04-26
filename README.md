@@ -4,4 +4,5 @@
 with the python codes. The trained model is quite big and  easy to train so
 I gave up uploading it.
   sklearn,pytorch,graphviz are required for using full feature of this project. 
-  Great thanks to Prof Ye Yuan,Doc Yang,Doc Tang's great guidance on my deep learning route.  
+  Thanks for Prof Wei of providing this great optional class,although there aren't much classes,I really learn't a lot.
+  Great thanks to Prof Yuan,Doc Yang,Doc Tang's great guidance on my deep learning route.  
